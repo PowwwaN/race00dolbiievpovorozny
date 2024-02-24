@@ -9,6 +9,6 @@
 *Note: Pyramid size has to be even and larger than **1,** otherwise the program will display nothing.*
 
 #### To run **CLI programs** on **Linux** or **MacOS** you have to open the terminal in the directory where they are contained and type:
-```./<name-of-the-program>```
+````./<name-of-the-program>````
 
 The purpose of this repo is utterly to share it with others.
